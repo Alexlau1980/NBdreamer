@@ -2,7 +2,7 @@
 
 {"url":"https://github.com/alexlau888/NBdreamer/raw/main/0.json","name":"👴牛哥综合线路🦊"},
 
-{"url":"hhttps://github.com/alexlau888/NBdreamer/raw/main/1.json","name":"👨‍🏭牛哥阿里精选🧸"}
+{"url":"https://github.com/alexlau888/NBdreamer/raw/main/1.json","name":"👨‍🏭牛哥阿里精选🧸"}
        ]
        
     }
