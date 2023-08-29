@@ -57,7 +57,7 @@
 
 {"key":"xhtx","name":"👨🏻‍小胡┃自营","type":1,"api":"http://xn--yetu07f.xn--yetu07f.icu:66/api.php/provide/vod/"},
 
-{"key":"Doll","name":"👶玩偶┃俊版","type":4,"api":"http://home.jundie.top:9520/spider/csp_Wogg?&token=http://127.0.0.1:9978/file/XYQTVBox/alitoken.txt","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"Doll","name":"👶玩偶┃俊版","type":4,"api":"http://home.jundie.top:9520/spider/csp_Wogg","ext":"http://127.0.0.1:9978/file/XYQTVBox/alitoken.txt","searchable":1,"quickSearch":1,"filterable":1},
 
 {"key":"策驰影院","name":"📽️策驰┃影院","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/cechi.json"},
 
