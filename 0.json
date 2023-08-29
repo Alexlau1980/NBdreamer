@@ -55,7 +55,7 @@
 
 {"key":"Yumi","name" :"🌽Yumi┃影视","type" :3,"api":"./lib/apiv49drpy2.min.js","ext":"./js/Yumi影视.js"},
 
-//{"key":"xhtx","name":"👨🏻‍小胡┃自营","type":1,"playerType":1,"api":"http://xn--yetu07f.xn--yetu07f.icu:66/api.php/provide/vod/"},
+{"key":"xhtx","name":"👨🏻‍小胡┃自营","type":1,"api":"http://xn--yetu07f.xn--yetu07f.icu:66/api.php/provide/vod/"},
 
 {"key":"Doll","name":"👶玩偶┃俊版","type":4,"api":"http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token","searchable":1,"quickSearch":1,"filterable":1},
 
