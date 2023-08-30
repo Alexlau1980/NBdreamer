@@ -49,8 +49,6 @@
 
 {"key":"来米","name":"🍿来米┃影视","type":3,"api":"csp_XBPQ","ext":"./XBPQ/来米影视.json"},
 
-{"key":"奇奇","name":"🎯奇奇┃切片","type":1,"api":"http://qq.xzam.cn:66/api.php/provide/vod/from/qiqi","playUrl": "json:http://42.157.128.109:2323/CH/zy/qiqi.php?url="},
-
 {"key":"Ant","name":"🐜蚂蚁┃蓝光","type":3,"playerType":1,"api":"./lib/apiv49drpy2.min.js","ext":"./js/蚂蚁.js"},
 
 {"key":"畅梦","name":"🛌畅梦┃影视","type":3,"api":"./lib/apiv49drpy2.min.js","ext":"./js/changmeng.js"},
