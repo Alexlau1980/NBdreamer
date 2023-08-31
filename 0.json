@@ -24,7 +24,7 @@
 
 "sites":[
 
-{"key":"豆瓣","name":"🦌牛哥自用，🈲止商用🅱️!  Updated on 2023-08-30","type":3,"api":"./lib/apiv49drpy2.min.js","searchable":0,"quickSearch":0,"ext":"./js/Doubanrebo.js"},
+{"key":"豆瓣","name":"🦌牛哥自用，🈲止商用🅱️!  Updated on 2023-08-31","type":3,"api":"./lib/apiv49drpy2.min.js","searchable":0,"quickSearch":0,"ext":"./js/Doubanrebo.js"},
 
 {"key":"道长直播","name":"📡电视 | 直播","type":3,"searchable":0,"api":"./js/live2cms.js","ext":"./lib/live2mv_data.json"},
         
@@ -54,6 +54,8 @@
 {"key":"畅梦","name":"🛌畅梦┃影视","type":3,"api":"./lib/apiv49drpy2.min.js","ext":"./js/changmeng.js"},
 
 {"key":"综合","name":"🎊综合┃采集","type":1,"api":"http://nb.xzam.cn:66/api.php/provide/vod/","playUrl":"json:https://dx.maclsj.com/blue/json.php?url="},
+
+{"key":"奇奇","name":"🎯奇奇┃切片","type":1,"api":"http://nb.xzam.cn:66/api.php/provide/vod/","playUrl":"json:http://42.157.128.109:2323/CH/zy/qiqi.php?url="},
 
 {"key":"Yumi","name" :"🌽Yumi┃影视","type" :3,"api":"./lib/apiv49drpy2.min.js","ext":"./js/Yumi影视.js"},
 
@@ -202,16 +204,17 @@
 {"name":"超级嗅探","type":3,"url":"Web"},
 {"name":"Json并发","type": 2,"url":"Parallel"},
 
-
 {"name":"观音解析","type":1,"url":"http://27.124.4.42:4567/jhjson/ceshi.php?url=","User-Agent":"okhttp/3.12.0","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","yk","mgtv","芒果","CL4K","renrenmi","ltnb","bilibili","1905","xigua"]}},
 
-{"name":"大厂","type":1,"url":"http://110.42.2.247:880/analysis/json/?uid=2449&my=acfgikquvzFGJRW459&format=data&url="},
+{"name":"腾讯4K","type":1,"url":"http://175.178.183.192:83/txqq.php?url="},
 
-{"name": "大厂1","type":1,"url":"http://110.42.2.247:880/analysis/json/?uid=2384&my=bcijquvxAFKMUY0579&format=json&url="},
+{"name":"官源1","type":1,"url":"http://110.42.2.247:880/analysis/json/?uid=2449&my=acfgikquvzFGJRW459&format=data&url="},
 
-{"name":"大厂2","type":1,"url":"http://110.42.2.247:880/analysis/json/?uid=2255&my=eknpqvADFHOPR02458&format=json&url="},
+{"name": "官源2","type":1,"url":"http://110.42.2.247:880/analysis/json/?uid=2384&my=bcijquvxAFKMUY0579&format=json&url="},
 
-{"name": "大厂3","type": 1,"url": "http://110.42.2.247:880/analysis/json/?uid=2100&my=ehilmnqyCDGHILNUXZ&mgtv=app&url="},
+{"name":"官源3","type":1,"url":"http://110.42.2.247:880/analysis/json/?uid=2255&my=eknpqvADFHOPR02458&format=json&url="},
+
+{"name": "官源4","type": 1,"url": "http://110.42.2.247:880/analysis/json/?uid=2100&my=ehilmnqyCDGHILNUXZ&mgtv=app&url="},
 
 {"name":"莫问前程","type":1,"url": "http://27.124.4.42:4567/jhjson/ceshi.php?url=","flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","leshi","LS","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"]},
 
