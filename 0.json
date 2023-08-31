@@ -30,6 +30,8 @@
         
 {"key":"腾讯","name":"🐧腾讯┃视频","type":3,"api":"csp_Qtv","searchable":1,"quickSearch":1,"filterable":1},
 
+{"key":"企鹅","name":"🐧企鹅┃官源","type":3,"api":"./lib/apiv49drpy2.min.js","ext":"./lib/tengxun.js"},
+
 {"key":"芒果","name":"🍋芒果┃影视","type":3,"api":"./lib/apiv49drpy2.min.js","ext":"./lib/mangguo.js"},
 
 //{"key":"网盘签到","name":"📀阿里┃签到","type":3,"api":"AliYunPan","searchable":0,"filterable":0,"changeable":0},
@@ -62,6 +64,8 @@
 {"key":"xhtx","name":"👨🏻‍小胡┃自营","type":1,"api":"http://xn--yetu07f.xn--yetu07f.icu:66/api.php/provide/vod/"},
 
 {"key":"Doll","name":"👶玩偶┃俊版","type":4,"api":"http://home.jundie.top:9520/spider/csp_Wogg","ext":"http://127.0.0.1:9978/file/XYQTVBox/alitoken.txt","searchable":1,"quickSearch":1,"filterable":1},
+
+{"key":"Paper","name":"👶纸条┃俊版","type":4,"api":"http://home.jundie.top:9520/spider/cli_gitCafe","ext":"http://127.0.0.1:9978/file/XYQTVBox/alitoken.txt","searchable":1,"quickSearch":1,"filterable":1},
 
 {"key":"策驰影院","name":"📽️策驰┃影院","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/cechi.json"},
 
