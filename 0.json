@@ -65,7 +65,7 @@
 
 {"key":"Paper","name":"👶纸条┃俊版","type":4,"api":"http://home.jundie.top:9520/spider/cli_gitCafe","ext":"http://127.0.0.1:9978/file/XYQTVBox/alitoken.txt","searchable":1,"quickSearch":1,"filterable":1},
 
-{"key":"策驰影院","name":"📽️策驰┃影院","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/cechi.json"},
+{"key":"策驰影院","name":"📽️策驰┃影院","type":3,"api":"csp_XBPQ","searchable":0,"quickSearch":1,"filterable":1,"ext":"./XBPQ/cechi.json"},
 
 {"key":"低端","name":"😎低端┃影院","type": 3,"api":"csp_Ddys","searchable": 1,"quickSearch": 1,"filterable":1,"jar":"./jar/xyq.jar"},
 
