@@ -139,7 +139,7 @@
 
 {"key":"云搜","name":"🍼云搜┃Ali","type":3,"api":"csp_UpYun","searchable":1,"filterable": 0,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvbox/tok.txt"},
 
-//{"key":"找资源","name":"🍼资源┃Ali","type":3,"api":"csp_Zhaozy","searchable":1,"filterable":0,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvbox/tok.txt$$$yunshuche$$$11223344"},
+{"key":"找资源","name":"🍼资源┃Ali","type":3,"api":"csp_Zhaozy","searchable":1,"filterable":0,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvbox/tok.txt$$$yunshuche$$$11223344"},
 
 {"key":"Pans","name":"🍼Pans┃Ali","type":3,"api":"csp_PanSearch","searchable":1,"filterable":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvbox/tok.txt"},
 
@@ -216,8 +216,6 @@
 
 
 {"name":"观音解析","type":1,"url":"http://27.124.4.42:4567/jhjson/ceshi.php?url=","User-Agent":"okhttp/3.12.0","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","yk","mgtv","芒果","CL4K","renrenmi","ltnb","bilibili","1905","xigua"]}},
-
-{"name":"腾讯4K","type":1,"url":"http://175.178.183.192:83/txqq.php?url="},
 
 {"name":"官源1","type":1,"url":"http://110.42.2.247:880/analysis/json/?uid=2449&my=acfgikquvzFGJRW459&format=data&url="},
 
