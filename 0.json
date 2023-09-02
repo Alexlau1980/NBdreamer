@@ -73,7 +73,7 @@
 
 {"key": "推送","name":"👶推送┃俊版","type":4,"api":"http://home.jundie.top:9520/spider/csp_Push?&token=https://jihulab.com/alexlau888/NBdreamer/raw/main/json/tokenfuck.jar","searchable":1,"quickSearch":1,"filterable":1},
 
-{"key":"策驰影院","name":"📽️策驰┃影院","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/cechi.json"},
+{"key":"策驰影院","name":"📽️策驰┃影院","type":3,"api":"csp_XBPQ","searchable":0,"quickSearch":1,"filterable":1,"ext":"./XBPQ/cechi.json"},
 
 {"key":"低端","name":"😎低端┃影院","type": 3,"api":"csp_Ddys","searchable": 1,"quickSearch": 1,"filterable":1,"jar":"./jar/xyq.jar"},
 
