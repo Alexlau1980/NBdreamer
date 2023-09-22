@@ -2,7 +2,7 @@
 
 {
 //jar
-"spider":"./jar/xyq.jar;md5;0197b5a951d4c09fd091ad5e8c3d8678",
+"spider":"./jar/123.jar;md5;0197b5a951d4c09fd091ad5e8c3d8678",
 
 
 //壁纸
@@ -38,6 +38,8 @@
 {"key":"Gitcafe","name":"📕纸条┃阿狸","type":3,"api":"csp_Gitcafe","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://127.0.0.1:9978/file/XYQTVBox/alitoken.txt"},
 
 {"key":"csp_AliPS","name":"📀盘搜┃阿里","type":3,"api":"csp_AliPS","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://127.0.0.1:9978/file/XYQTVBox/alitoken.txt"},
+
+{"key":"csp_Upyunso","name":"📀Up云┃阿里","type":3,"api":"Upyunso","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://127.0.0.1:9978/file/XYQTVBox/alitoken.txt"},
 
 {"key":"csp_Yisou","name":"📀易搜┃阿里","type":3,"api":"csp_Yisou","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://127.0.0.1:9978/file/XYQTVBox/alitoken.txt"},
 
