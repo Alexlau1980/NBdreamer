@@ -1,8 +1,8 @@
 [
 {"name":"太阳","url":"http://111.67.196.181/zhibo.txt"},
 {"name":"直播","url":"https://qu.ax/bGLO.txt"},
-{"name":"牛哥直播","url":"https://gitlab.com/alex.lau30/NBdreamer/-/raw/main/live.txt"},
-{"name":"梅林直播","url":"https://gitlab.com/alex.lau30/NBdreamer/-/raw/main/梅林IPTV.txt"},
+{"name":"牛哥直播","url":"http://127.0.0.1:9978/file/xiaohu/live.txt"},
+{"name":"梅林直播","url":"http://127.0.0.1:9978/file/xiaohu/梅林IPTV.txt"},
 {"name":"Xhdwc","url":"https://xhdwc.tk/tvlive.txt"},
 {"name":"微笑","url":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt"},
 {"name":"HKTV","url":"https://epg.pw/test_channels_hong_kong.m3u"}
