@@ -1,6 +1,6 @@
 var rule = {
 	title: '蚂蚁[V2]', // csp_AppYsV2
-	host: 'http://mp4.ghlyys.com',
+	host: 'http://lanyi.yy365.vip',
 	homeUrl:'/api.php/app/index_video',
 	// url: '/api.php/app/video?tid=fyclass&class=&area=&lang=&year=&limit=20&pg=fypage',
 	url: '/api.php/app/video?tid=fyclassfyfilter&limit=20&pg=fypage',
