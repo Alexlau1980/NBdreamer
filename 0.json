@@ -21,7 +21,7 @@
 
 "sites":[
 
-{"key":"豆瓣","name":"🦌牛哥自用Github仓，🈲止商用🅱️Update on 2023-09-22!","type":3,"api":"./lib/apiv49drpy2.min.js","searchable":0,"quickSearch":0,"ext":"./js/Doubanrebo.js"},
+{"key":"豆瓣","name":"🦌牛哥自用，🈲止商用🅱️","type":3,"api":"./lib/apiv49drpy2.min.js","searchable":0,"quickSearch":0,"ext":"./js/Doubanrebo.js"},
 
 {"key":"道长直播","name":"📡电视 | 直播","type":3,"searchable":0,"api":"./js/live2cms.js","ext":"./lib/live2mv_data.json"},
 
@@ -40,6 +40,10 @@
 {"key":"csp_AList_Alist","name":"🍰Alist┃网盘","type":3,"api":"csp_AList","searchable":1,"quickSearch":1,"filterable":1,"jar":"./jar/alist.jar","ext":"./json/alist.json"},
 
 {"key":"小雅","name":"🍰小雅┃网盘1","type":3,"api":"./lib/alist.min.js","ext":"./json/alist2.json","searchable":1,"quickSearch":1,"filterable":0},
+
+{"key":"XiaoYa","name":"🍰小雅┃搜索","api":"csp_XiaoYa","type":3,"searchable":1,"filterable":1,"quickSearch":1,"changeable":0,"ext":"eyJhcGlLZXkiOiI5YzY4ZDE0Zi1mNGFkLTQxMWItOWJlNi04NTM1NmMyMjc5YzYiLCJhcGkiOiJodHRwOi8vMjcuMTQuMTIuMjM0OjQ1NjcifQ==","jar":"http://27.14.12.234:4567/spring.jar"},
+
+//备用eyJhcGlLZXkiOiI5YzY4ZDE0Zi1mNGFkLTQxMWItOWJlNi04NTM1NmMyMjc5YzYiLCJhcGkiOiJodHRwOi8vMjcuMTQuMTIuMjM0OjQ1NjcifQ
 
 //JS
 
@@ -74,11 +78,13 @@
 
 {"key":"奇奇","name":"🎯奇奇┃采集","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.gsjtlxy.top/xgapp.php/v3/"},
 
-{"key":"csp_Jianying","name":"🎆简影┃影视","type":3,"api":"csp_Jianying","searchable":1,"quickSearch":1,"filterable":1,"ext":"hjju123@qq.com$$$123456"},
+{"key":"csp_Jianying","name":"🎆简影┃影视","type":3,"api":"csp_Jianying","searchable":1,"quickSearch":1,"filterable":1, "ext":"hjju123@qq.com$$$123456"},
 
-{"key":"低端","name":"😎低端┃影院","type": 3,"api":"csp_Ddys","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key":"低端","name":"😎低端┃影院","type": 3,"api":"csp_Ddys","searchable": 1,"quickSearch": 1,"filterable":1},
 
-{"key":"影探","name":"🏵影探┃多线","type":3,"api":"csp_YT","searchable":1,"quickSearch":1,"filterable":1,"ext":{"server":"http://yflf6367liling.lyyytv.cn","maccode":"221928f23b766921","recommend":"http://vipcms.lyyytv.cn/api.php/app/","ip":"120.235.62.207"},"jar":"./jar/nbq.jar"},
+{"key":"嘉靓","name":"🙆嘉靓┃资源","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://cms.jialiangos.com/api.php/app/"},
+
+{"key":"救援","name":"🚑第一┃救援","type":3,"api":"csp_FirstAid","searchable": 1,"quickSearch":1,"changeable":0},
 
 
 //XBPQ
