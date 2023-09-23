@@ -21,7 +21,7 @@
 
 "sites":[
 
-{"key":"豆瓣","name":"🦌牛哥自用，🈲止商用🅱️","type":3,"api":"./lib/apiv49drpy2.min.js","searchable":0,"quickSearch":0,"ext":"./js/Doubanrebo.js"},
+{"key":"豆瓣","name":"🦌牛哥自用Github仓，🈲止商用🅱️ Updated on 2023-09-23!","type":3,"api":"./lib/apiv49drpy2.min.js","searchable":0,"quickSearch":0,"ext":"./js/Doubanrebo.js"},
 
 {"key":"道长直播","name":"📡电视 | 直播","type":3,"searchable":0,"api":"./js/live2cms.js","ext":"./lib/live2mv_data.json"},
 
