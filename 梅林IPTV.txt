@@ -1,4 +1,6 @@
 梅林直播,#genre#
+翡翠台,https://sc2022.stream-link.org/tv2306.php?id=h01
+翡翠台,https://sc2022.stream-link.org/tv2306.php?id=h02
 tvb无线新闻,https://epg.pw/stream/19d1cd44fca23238190d5ada7b08552382bf391f77d6b4348f3e3ae56afe7c9f.m3u8
 无线新闻1,https://epg.pw/stream/9eba5b8c19187b49a71080ebc17c848c15a04a9b099e571d376374d8ab99f3cf.ctv
 hoytv,https://epg.pw/stream/c267fcf607387ff9dcdb36595b6090661f435b41762cd89a56f1f1a3ea5ce2ad.m3u8
