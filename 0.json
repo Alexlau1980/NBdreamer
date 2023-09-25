@@ -59,7 +59,7 @@
 
 {"key":"农民","name":"👨‍🌾农民┃影视","type":3,"api":"./lib/apiv49drpy2.min.js","ext":"./js/农民影视.js"},
 
-{"key":"追忆","name": "🏇追忆┃蓝光","type":3,"api":"./lib/apiv49drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/追忆.js"},
+//{"key":"追忆","name": "🏇追忆┃蓝光","type":3,"api":"./lib/apiv49drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/追忆.js"},
 
 {"key":"49","name":"🍷️4⃣9⃣┃资源","type":1,"api":"https://49zyw.com/api.php/provide/vod/at/json","searchable":1,"quickSearch":1,"filterable":1,"categories":["电影解说","国产剧","欧美剧","日剧","韩国剧","海外据","台湾剧","香港剧","泰国剧","悬疑片","喜剧片","动作片","爱情片","科幻片","恐怖片","剧情片","战争片","犯罪片","奇幻片","动画片","日本动漫","欧美动漫","国产动漫","大陆综艺","日韩综艺","港台综艺","欧美综艺"]},
 
@@ -98,7 +98,7 @@
 
 //T4
 
-{"key":"Doll","name":"👶玩偶┃俊版","type":4,"api":"http://home.jundie.top:9520/spider/csp_Wogg?&token=https://jihulab.com/alexlau888/NBdreamer/raw/main/json/tokenfuck.jar","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"Doll","name":"👶玩偶┃俊版","type":4,"api":"http://home.jundie.top:9520/spider/csp_Wogg?&token=https://github.com/alexlau888/NBdreamer/raw/main/json/jar/tokenfuck.jar","searchable":1,"quickSearch":1,"filterable":1},
 
 //{"key":"Paper","name":"👶纸条┃俊版","type":4,"api":"http://home.jundie.top:9520/spider/cli_gitCafe?&token=https://jihulab.com/alexlau888/NBdreamer/raw/main/json/tokenfuck.jar","searchable":1,"quickSearch":1,"filterable":1},
 
