@@ -1,0 +1,34 @@
+{
+
+
+    "作者": "NB",
+    
+    "站名": "看它影院",
+    
+    "主页url": "https://kanta.vip/",
+    
+    "简介": "【NB哥温馨提示】资源仅供测试交流，不得商用！请勿相信影片中的广告，以免上当受骗。+video-info-item video-info-content vod_content\">&&</span>",
+    
+    "导演": "导演：&&</p>",
+    
+    "图片": "data-src=\"&&\"",
+    
+    //"标题": "alt=\"&&\"",
+    
+    //"数组": "v-thumb stui-vodlist__thumb lazyload\"&&/a>",
+    
+    "播放数组": "<div class=\"scroll-content&&</div>",
+    
+    "线路数组": "data-dropdown-value=\"&&</div>[替换:看它>>空][不包含:4K]",
+    
+    "线路标题":"+<span>&&</small>[替换:</span><small>>>共]+集",
+    
+    "捜索url": "/vodsearch/{wd}------------.html",
+    
+    "分类url": "https://kanta.vip/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html;;a",
+    
+    "分类": "短剧$30#电影$1#喜剧片$6#动作片$8#科幻片$9#恐怖片$12#战争片$20#剧集$2#国产剧$13#港台剧$14#欧美剧$15#日剧$16#韩剧$29#综艺$3#动漫$4"
+
+    
+    
+}

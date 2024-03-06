@@ -1,0 +1,39 @@
+{
+
+    "作者": "NB",
+    
+    "站名": "蜜果",
+    
+    "主页url": "https://miguo.pro/",
+    
+    "简介": "【NB哥温馨提示】资源仅供测试交流，不得商用！请勿相信影片中的广告，以免上当受骗。+class=\"text cor3\">&&</div>",
+    
+    "导演": "导演：&&</p>",
+    
+    "图片": "data-src=\"&&\"",
+    
+    "数组":"module-item&&</div>",
+    
+    "链接": "href=\"&&\"",
+    
+    "标题": "title=\"&&\"",
+    
+    "捜索模式": "1",
+    
+    "播放列表": "<a&&</a>",
+    
+    "播放数组": "scroll-content\"&&</div>",
+    
+    "线路数组": "data-dropdown-value=&&</div>",
+    
+    "线路标题":"<span>&&</small>[替换:</span><small>>>共]+集",
+    
+    "嗅探词": ".m3u8#.mp4#.flv#aliyundrive#alicloudccp",
+    
+    "搜索url": "/v_search/-------------.html?wd={wd}",
+   
+    "分类url": "https://miguo.pro?{cateId}{class}{year}{area}{catePg};;m",
+    
+    "分类": "电影$1#剧集$2#综艺$3#动漫$4"  
+    
+}

@@ -1,0 +1,19 @@
+{
+"站名":"看一看影视",
+"主页url":"https://www.kanyk.net/",
+"数组":"<li class=\"p1 m1\">&&</li>",
+"图片":"data-original=\"&&\"",
+"标题":"title=\"&&\"",
+"副标题":"other\"><i>&&</i>",
+"搜索url":"https://www.kanyk.net/index.php?m=vod-search;post;wd={wd}",  
+"搜索模式":"1",
+"线路数组":"<li id=&&</li>",
+"线路标题":"</i>&&<",
+"导演":"导演：&&</span>",
+"主演":"主演：&&</span>",
+"简介":"<span class=\"ek js\">&&</span>",
+"免嗅":"1",
+"分类url":"https://www.kanyk.net/index.php?m=vod-list-id-12-pg-{catePg}-order--by--class-0-year-{year}-letter--area-{area}-lang-.html[firstPage=https://www.kanyk.net/vodtypehtml/{cateId}/]",
+"分类":"电影$dianying#电视剧$lianxuju#动漫$dongman#综艺$zongyi"
+
+}

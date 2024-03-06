@@ -1,0 +1,25 @@
+{
+"作者":"甜心宝宝",
+"站名":"酒客影视",
+"请求头": "手机",
+"编码": "UTF-8",
+"主页url":"http://jiukeys.cn/",
+"数组":"module-item-cover&&module-item\"",
+ "免嗅":"1",
+ "捜索模式": "1",
+"图片":"data-src=\"&&\"",
+"标题":"title=\"&&\"",
+"副标题":"module-item-text\"&&</div>",
+"搜索url":"http://jiukeys.cn/index.php/vod/search/page/{catePg}/wd/{wd}.html",
+"链接":"href=\"&&\"",
+"线路数组":"data-dropdown-value=&&</div>",
+"线路标题":"<span>&&</small>[替换:</span><small>>>共]+集",
+"播放数组":"sort-item&&</div>",
+//"跳转播放链接":"urlDecode(var player_*url\":\"&&\")",
+"导演":"导演：&&</span>",
+"主演":"主演：&&</span>",
+"简介":"module-item-style video-text\">&&</span>",
+"分类url":"http://jiukeys.cn/index.php/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
+"分类":"电影$1#电视剧$2#综艺$3#动漫$4"
+}
+

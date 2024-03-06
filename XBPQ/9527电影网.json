@@ -1,0 +1,26 @@
+  {
+"站名":"9527电影网",
+"请求头": "手机",
+"编码": "UTF-8",
+"主页url":"https://www.jialihotel.cn/",
+"数组":"fed-list-item fed-padding fed-col-xs4 fed-col-sm3 fed-col-md2\"&&</li>",
+"标题":"fed-list-title fed-font-xiv fed-text-center fed-text-sm-left fed-visible fed-part-eone\"*.html\"&&</a>",
+"图片":"data-original=\"&&\"", 
+"副标题":"fed-list-remarks fed-font-xii fed-text-white fed-text-center\"&&</span>",
+"线路数组":"fed-drop-btns fed-padding fed-col-xs3 fed-col-md2\"&&</li>",
+"线路标题":">&&</a>",
+"播放数组":"</ul><ul&&</ul></div>",
+"导演":"_blank\"&&</span>",
+"主演":"_blank\"&&</span>",
+"简介":"fed-text-muted\"&&",
+"搜索模式":1,
+"搜索url":"/vodsearch/{wd}----------{pg}---.html",
+"搜索数组":"fed-deta-info fed-deta-padding fed-line-top fed-margin fed-part-rows fed-part-over\"&&</dl>",
+"搜索标题":"fed-text-green fed-text-bold\"&&</a>",
+"搜索图片":"data-original=\"&&\"", 
+"嗅探词": ".mp4#.m3u8#mp3",
+ "分类url": "https://www.jialihotel.cn/s/{cateId}/area/{area}/page/{catePg}/year/{year}.html",
+"分类":"电影$dianying#连续剧$lianxuju#综艺$zongyi#动漫$dongman"
+
+
+}

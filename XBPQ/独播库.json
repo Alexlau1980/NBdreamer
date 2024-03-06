@@ -1,0 +1,43 @@
+{
+
+    "作者": "NB",
+    
+    "站名": "独播库",
+    
+    "主页url": "http://www.wgic.org.cn",
+    
+  "简介": "【NB哥温馨提示】资源仅供测试交流，不得商用！请勿相信影片中的广告，以免上当受骗。+detail-content&&</span>",
+  
+    "影片类型": "<span>&&</span>",
+    
+    "导演": "导演：&&</p>",
+    
+    "图片": "data-original=\"&&\"",
+    
+    "链接": "href=\"&&\"",
+    
+    "标题": "title=\"&&\"",
+    
+    "副标题": "pic-text text-right\">&&</span>",
+    
+    "捜索模式": "1",
+    
+    "播放列表":"<a&&</a>",
+
+    "播放数组": "stui-content__playlist clearfix\">&&</ul>",
+    
+    "线路数组":"active-tab&&</span>",
+    
+    "线路标题": "独播库专线",
+    
+    "嗅探词": ".m3u8#.mp4#.flv#aliyundrive#alicloudccp",
+    
+    //"搜索url": "/search/page/{pg}/wd/{wd}/",
+    
+    "分类url": "http://www.wgic.org.cn/show/{cateId}---{class}-{lang}----{catePg}---{year}.html;;mak",
+    
+    "分类": "电影&剧集&综艺&动漫",
+    
+    "分类值": "1&2&3&4"
+    
+}

@@ -1,0 +1,44 @@
+{
+
+    "作者": "NB",
+    
+    "站名": "奇奇影院",
+    
+    "请求头": "手机",
+    
+    "主页url": "https://m.qiqi93.com/",
+    
+    "简介": "【NB哥温馨提示】资源仅供测试交流，不得商用！请勿相信影片中的广告，以免上当受骗。+details-content-all collapse\">&&</span>",
+    
+    "演员": "主演:&&</span>",
+    
+    "导演": "主演:&&</span>",
+    
+    "图片": "data-original=\"&&\"",
+    
+    "链接": "href=\"&&\"",
+    
+    "标题": "title=\"&&\"",
+    
+    "副标题": "note text-bg-r\">&&</span>",
+    
+    "捜索模式": "1",
+    
+    "播放列表": "a&&</a>",
+    
+    "播放数组": "id=\"con_playlist&&</ul>",
+      
+    "线路数组": "data-toggle=\"tab\"&&</a>",
+    
+    "线路标题":  "&&</a>",
+    
+    //"嗅探词": ".m3u8#.mp4#.flv#aliyundrive#alicloudccp",
+    
+    "搜索url": "/search/wd/{wd}/page/{catePg}.html?wd={wd}", 
+     
+    "分类url": "https://m.qiqi93.com/{cateId}/index___{year}__.html?{catePg}",
+     
+    "分类": "电影$dianying#剧集$dianshiju#综艺$zongyi#动漫$dongman"
+     
+    
+}

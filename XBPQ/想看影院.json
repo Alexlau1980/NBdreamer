@@ -1,0 +1,41 @@
+{
+
+    "作者": "NB",
+    
+    "站名": "想看影院",
+    
+    "主页url": "https://xiangkan1.com",
+    
+    "简介": "【NB哥温馨提示】资源仅供测试交流，不得商用！请勿相信影片中的广告，以免上当受骗。+stui-content__desc col-pd clearfix\">&&</div>",
+    
+    "图片": "data-original=\"&&\"",
+    
+    "链接": "href=\"&&\"",
+    
+    "标题": "title=\"&&\"",
+    
+    "副标题": "pic-text text-right\">&&</span>",
+    
+    "捜索模式": "1",
+    
+    "播放列表":"<a&&</a>",
+
+    "播放数组": "stui-content__playlist clearfix\">&&</ul>",
+    
+    "线路数组":"stui-pannel__head clearfix\">&&</div>",
+    
+    "跳转播放链接": "<iframe*src=\"&&\"",
+    
+    "线路标题": "<h3 class=\"title\">&&</h3>",
+    
+    "嗅探词": ".m3u8#.mp4#.flv#aliyundrive#alicloudccp",
+    
+    "搜索url": "https://xiangkan1.com/search-{wd}----------{pg}---.html",
+    
+    "分类url": "https://xiangkan1.com/show-{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html;;mak",
+    
+    "分类": "电影&剧集&综艺&动漫",
+    
+    "分类值": "dianying&dianshiju&zongyi&dongman "
+    
+}

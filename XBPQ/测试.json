@@ -1,0 +1,48 @@
+{
+
+    "作者": "NB",
+    
+    "站名": "97看剧网",
+    
+    "请求头": "手机",
+    
+    "主页url": "http://www.zhencangys.com/",
+    
+     "简介": "【NB哥温馨提示】资源仅供测试交流，不得商用！请勿相信影片中的广告，以免上当受骗。+detail-content\" style=*>&&</span>",
+     
+    "影片类型":"类型：&&</p>",
+    
+    "影片年代":"年份：&&</p>",
+    
+    "影片地区":"地区：&&</p>",
+    
+    "导演":"导演：&&</p>",
+    
+    "演员":"主演：&&</p>",
+    
+    "图片": "data-original=\"&&\"",
+    
+    "链接": "href=\"&&\"",
+    
+    "播放数组": "stui-content__playlist playlink clearfix&&</ul>",
+    
+    "播放列表": "a&&</a>",
+    
+    "标题": "title=\"&&\"",
+    
+    "副标题": "pic-text text-right\">&&</span>",
+    
+    "捜索模式": "1",
+      
+    "线路标题": "<h3 class=\"title\">&&</h3>",
+    
+    "线路标题": "<img src=*>&&<",
+    
+    "搜索url": "/vodsearch/-------------.html?wd={wd}", 
+     
+    "分类url": "http://www.zhencangys.com/{cateId}/index.html;;mA",
+ 
+    "分类": "电影$dy#剧集$tv#综艺$zy#动漫$dm"
+     
+    
+}

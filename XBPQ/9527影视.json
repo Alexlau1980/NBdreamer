@@ -1,0 +1,50 @@
+{
+
+    "作者": "NB",
+    
+    "站名": "9527电影",
+    
+    "请求头": "手机",
+    
+    "主页url": "https://www.jialihotel.cn/",
+    
+     "简介": "【NB哥温馨提示】资源仅供测试交流，不得商用！请勿相信影片中的广告，以免上当受骗。+fed-padding fed-part-both fed-text-muted\" style=*>&&</p>",
+     
+    "影片类型":"分类：&&</li>",
+    
+    "影片年代":"年份：&&</li>",
+    
+    "影片地区":"地区：&&</li>",
+    
+    "导演":"导演：&&</li>",
+    
+    "演员":"主演：&&</li>",
+    
+    "图片": "data-original=\"&&\"",
+    
+    "链接": "href=\"&&\"",
+    
+    "数组":"<li class=\"fed-list-item fed-padding fed-col-xs4 fed-col-sm3 fed-col-md2\">&&</li>",
+    
+    "标题": "fed-list-title fed-font-xiv fed-text-center fed-text-sm-left fed-visible fed-part-eone\" href=*>&&</a>",
+    
+    "副标题": "fed-list-remarks fed-font-xii fed-text-white fed-text-center\">&&</span>",
+    
+    "捜索模式": "1",
+    
+    "播放数组":"</ul><ul class=\"fed-part-rows\">&&</ul></div>",
+    
+    "线路数组":"fed-drop-btns fed-padding fed-col-xs3 fed-col-md2\"&&</li>",
+      
+    //"线路数组": "fed-btns-info fed-rims-info fed-part-eone&&</a>",
+    
+    "线路标题": ">&&</a>",
+    
+    "搜索url": "/vodsearch/-------------.html?wd={wd}", 
+     
+    "分类url": "https://www.jialihotel.cn/s/{cateId}/area/{area}/page/{catePg}/year/{year}.html",
+ 
+    "分类": "电影$dianying#剧集$lianxuju#综艺$zongyi#动漫$dongman"
+     
+    
+}

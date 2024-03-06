@@ -1,0 +1,49 @@
+{
+
+    "作者": "NB",
+    
+    "站名": "电影驿站",
+    
+    "主页url": "https://www.dyyz.cc/",
+    
+    "简介": "【NB哥温馨提示】资源仅供测试交流，不得商用！请勿相信影片中的广告，以免上当受骗。+简介：&&</p>",
+    
+    "导演": "导演：&&</p>",
+    
+    "图片": "data-src=\"&&\"",
+    
+    "链接": "href=\"&&\"",
+    
+    "标题": "title=\"&&\"",
+    
+    "副标题": "public-list-prb hide ft2\">&&</span>",
+    
+    //"搜索数组":"a target=\"_self\" class=\"public-list-exp\"&&thumb-else cor5 hide\">",
+    
+    //"捜索图片": "data-src=\"&&\"",
+    
+    //"搜索副标题": "public-list-prb hide ft2\">&&</span>",
+    
+    "捜索模式": "1",
+    
+    "播放列表":"<li&&</li>",
+
+    "播放数组": "<ul class=\"anthology-list-play size\">&&</ul>",
+    
+    "线路数组":"<i class=\"fa ds-dianying\">&&</a>",
+    
+    "线路二次截取":"<div class=\"swiper-wrapper\"&&</div>",
+    
+    "嗅探词": ".m3u8#.mp4#.flv#aliyundrive#alicloudccp",
+    
+    "搜索url": "vodsearch/-------------.html?wd={wd}",
+    
+    "分类url": "https://www.dyyz.cc/vodtype/{cateId}&pageSize=21.html",
+    
+    "分类数组": "flex around&&</ul>",
+    
+    "分类名称": "短剧&B站&电影&剧集&国产剧&港台剧&日韩剧&泰国剧&欧美剧&综艺&动漫",
+    
+    "分类名称替换词": "49&41&1&2&13&14&20&21&22&3&4"
+    
+}

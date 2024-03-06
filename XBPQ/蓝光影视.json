@@ -1,0 +1,27 @@
+{
+    "作者": "NB",
+    
+    "站名": "蓝光影视",
+    
+    "主页url": "https://languang.pro/",
+    
+    "简介": "【NB哥温馨提示】资源仅供测试交流，不得商用！请勿相信影片中的广告，以免上当受骗。+简介：&&</p>",
+    
+    "导演": "导演：&&</p>",
+    
+    "图片": "data-original=\"&&\"",
+    
+    "标题": "alt=\"&&\"",
+    
+    "播放数组": "<ul class=\"stui-content__playlist clearfix&&</ul>",
+    
+    "线路数组": "data-toggle=&&</a>",
+    
+    "线路标题": ">索尼线路<",
+    
+    //"捜索url": "https://www.ecmys.com/vod/search/?wd={wd}&submit=",
+    
+    "分类url": "https://languang.pro/vodshow/{cateId}-{area}--{class}-{lang}----{catePg}---{year}.html",
+    
+    "分类": "搜索观看$1"
+}

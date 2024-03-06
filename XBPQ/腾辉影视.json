@@ -1,0 +1,49 @@
+{
+
+    "作者": "NB",
+    
+    "站名": "腾辉影院",
+    
+    "主页url": "https://m.thqz.cc",
+    
+    "简介": "【NB哥温馨提示】资源仅供测试交流，不得商用！请勿相信影片中的广告，以免上当受骗。+<p>&&</p>",
+    
+    "影片类型": "module-info-tag\">&&</div></div>",
+    
+    "演员": "演员：&&</p>",
+    
+    "导演": "导演：&&</span>",
+    
+    "图片": "data-original=\"&&\"",
+    
+    "链接": "href=\"&&\"",
+    
+    "标题": "title=\"&&\"",
+    
+    "副标题":"pic-text text-right\">&&</span>",
+    
+    "捜索模式": "1",
+    
+    "播放列表":"<li&&</li>",
+    
+    //"搜索数组":"v-thumb stui-vodlist&&</a>",
+    
+    "播放数组":"stui-content__playlist clearfix\">&&</ul>",
+    
+    "线路数组": "<h3 class=&&</h3>",
+    
+    "线路标题": ">&&</a>",
+    
+    "嗅探词": ".m3u8#.mp4#.flv#aliyundrive#alicloudccp",
+    
+    "搜索url": "/vod/search/page/{catePg}/wd/{wd}/",
+    
+    "分类url": "https://m.thqz.cc/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/lang/{lang}/page/{catePg}/year/{year}/",
+    
+    "分类": "电影&剧集&综艺&动漫",
+    
+    "分类值": "1&2&3&4"
+  
+
+    
+}

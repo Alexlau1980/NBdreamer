@@ -1,0 +1,46 @@
+{
+
+    "作者": "NB",
+    
+    "站名": "泡泡影视",
+    
+    "请求头": "手机",
+    
+    "主页url": "https://www.lfwkff.com/",
+    
+    "简介": "【NB哥温馨提示】资源仅供测试交流，不得商用！请勿相信影片中的广告，以免上当受骗。+暂无剧情介绍",
+    
+    "影片类型": "<div class=\"introAreaBox\">&&</div>",
+    
+    "演员": "主演:&&</span>",
+    
+    "导演": "主演:&&</span>",
+    
+    "图片": "src=\"&&\"",
+    
+    "链接": "href=\"&&\"",
+    
+    "标题": "title=\"&&\"",
+    
+    "副标题": "color: *;\">&&</div>",
+    
+    "捜索模式": "1",
+    
+    "播放列表": "a&&</a>",
+    
+    "播放数组": "video_list fn-clear&&</div>",
+      
+    "线路数组": "movieSubTitle&&</p>[排序:超清线路2>超清线路1]",
+    
+    "线路标题": ">&&<[不包含:高速线路2]",
+    
+    //"嗅探词": ".m3u8#.mp4#.flv#aliyundrive#alicloudccp",
+    
+    "搜索url": "/ppyssearch/{wd}----------{pg}---/",
+    
+    "分类url": "https://www.lfwkff.com/ppysshow/{cateId}-{area}--{class}-----{catePg}---{year}/;;ak",
+    
+    "分类": "电影$dianying#剧集$dianshiju#综艺$zongyi#动漫$fengchedongman"
+    
+    
+}

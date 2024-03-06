@@ -1,0 +1,48 @@
+{
+
+    "作者": "NB",
+    
+    "站名": "电影100",
+    
+    "请求头": "手机",
+    
+    "主页url": "https://dianying100.xyz/",
+    
+    "简介": "【NB哥温馨提示】资源仅供测试交流，不得商用！请勿相信影片中的广告，以免上当受骗。+sketch content\">&&</span>",
+    
+    "演员": "主演:&&</span>",
+    
+    "导演": "主演:&&</span>",
+    
+    "图片": "data-original=\"&&\"",
+    
+    "链接": "href=\"&&\"",
+    
+    "标题": "title=\"&&\"",
+    
+    "副标题": "title text-overflow\">&&</h4>",
+    
+    //"数组":"col-lg-8 col-md-6 col-sm-4 col-xs-3&&</li>",
+    
+    "捜索模式": "1",
+    
+    "播放列表": "a&&</a>",
+    
+    "播放链接":"data-link=\"&&\"",
+    
+    "播放数组": "myui-content__list playlist clearfix sort-list&&</ul>",
+      
+    "线路数组": "tabindex=&&</a>",
+    
+    "线路标题":  ">&&<",
+    
+    //"嗅探词": ".m3u8#.mp4#.flv#aliyundrive#alicloudccp",
+    
+    "搜索url": "/search/wd/{wd}/page/{catePg}.html?wd={wd}", 
+     
+    "分类url": "https://dianying100.xyz/index.php/vod/show/area/{area}/class/{class}/id/{cateId}/lang/{lang}/year/{year}/page/{catePg}.html;;mak",
+     
+    "分类": "电影$28#港剧$23#国剧$24#综艺$31#国漫$29"
+     
+    
+}

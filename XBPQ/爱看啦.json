@@ -1,0 +1,35 @@
+{
+    "作者": "NB",
+    
+    "站名": "爱看啦",
+    
+    "主页url": "https://aik.la/",
+    
+    //"简介": "【NB哥温馨提示】资源仅供测试交流，不得商用！请勿相信影片中的广告，以免上当受骗。+<p>&&</p>",
+    
+    //"影片类型": "<div class=\"module-info-tag-link\">&&</div></div>",
+    
+    "请求头":"手机",
+    
+    "数组":"module-item-pic\">&&module-item\"",
+    
+    //"导演": "导演：&&</p>",
+    
+    //"图片": "data-original=\"&&\"",
+    
+    //"标题": "alt=\"&&\"",
+    
+    //"副标题": "<div class=\"module-item-note\">&&</div>",
+    
+    //"播放数组": "<div class=\"module-play-list-content&&</div>",
+    
+    //"线路数组": "data-dropdown-value=&&</div>[排序:高清3线]",
+    
+    //"线路标题": "+<span>&&</small>[替换:</span><small>>>共]+集",
+    
+    //"捜索url": "/index.php/vod/search.html?wd={wd}",
+    
+    "分类url": "https://aik.la/show/{cateId}-{area}-{by}-{class}-----{catePg}---{year}/",
+    
+    "分类": "电影$dianying#剧集$dianshiju#综艺$zongyi#动漫$dongman#短剧$duanju"
+}

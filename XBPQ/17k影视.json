@@ -1,0 +1,33 @@
+{
+
+
+    "作者": "NB",
+    
+    "站名": "17K蓝光影院",
+    
+    "主页url": "https://17k.video/",
+    
+    "简介": "【NB哥温馨提示】资源仅供测试交流，不得商用！请勿相信影片中的广告，以免上当受骗。+剧情：&&</p>",
+    
+    "导演": "导演：&&</p>",
+    
+    "影片类型": "<div class=\"tag-link\">&&立即播放",
+    
+    "图片": "data-original=\"&&\"",
+    
+    "标题": "alt=\"&&\"",
+    
+    "播放数组": "<div class=\"scroll-content&&</div>",
+    
+    "线路数组": "data-dropdown-value=&&</div>[替换:(*)>>(海外)]",
+    
+    "线路标题":"+<span>&&</small>[替换:</span><small>>>共]+集",
+    
+    "捜索url": "/index.php/vod/search/wd/{wd}.html",
+    
+    "分类url": "https://17k.video/index.php/vod/show/area/{area}/class/{class}/id/{cateId}/lang/{lang}/page/{catePg}/year/{year}.html;;ak",
+    
+    "分类": "电影$1#剧集$2#综艺$3#动漫$4"
+    
+    
+}
