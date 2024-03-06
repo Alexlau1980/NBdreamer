@@ -1,0 +1,41 @@
+{
+    "作者": "NB",
+    
+    "站名": "Rarbt",
+    
+    "主页url": "http://www.rarbtv.cc/",
+    
+    "影片类型": "tag-link\"&&立即播放",
+    
+    "简介": "【NB哥温馨提示】资源仅供测试交流，不得商用！请勿相信影片中的广告，以免上当受骗。+video-info-content vod_content\">&&收起",
+    
+    "导演": "导演：&&</p>",
+    
+    "图片": "data-original=\"&&\"",
+    
+    "标题": "alt=\"&&\"",
+    
+    "副标题": "module-item-text\"&&</div>",
+    
+    "捜索模式": "1",
+    
+    //"数组":"module-item-pic\">&&module-item\"",
+    
+    "播放列表":"<a&&</a>",
+    
+    "播放标题":"<span>&&</span>",
+    
+    "播放数组": "sort-item&&</div>",
+    
+    "线路数组": "data-dropdown-value=&&</small>",
+    
+    "线路标题":"<span>&&<+共+<small>&&+集",
+    
+    "搜索url":"/vod/search/page/{pg}/wd/{wd}.html;;e5",
+    
+    "分类url":"http://www.rarbtv.cc/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
+    
+    "分类":"电影$movie#电视剧$Series#综艺$variety#动漫$cartoon"
+    
+}
+

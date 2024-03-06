@@ -1,0 +1,47 @@
+{
+
+    "作者": "NB",
+    
+    "站名": "Gimy TV",
+    
+    "请求头": "手机",
+    
+    "主页url": "https://www.nxmusic.com/",
+    
+    "简介": "【NB哥温馨提示】资源仅供测试交流，不得商用！请勿相信影片中的广告，以免上当受骗。+<span>&&</span>",
+    
+    "影片类型": "video-info-aux scroll-content\">&&</div>",
+    
+    "演员": "主演:&&</span>",
+    
+    "导演": "主演:&&</span>",
+    
+    "图片": "data-src=\"&&\"",
+    
+    "链接": "href=\"&&\"",
+    
+    "标题": "title=\"&&\"",
+    
+    "副标题": "module-item-text\">&&</div>",
+    
+    "捜索模式": "1",
+    
+    "播放列表": "a&&</a>",
+    
+    "播放数组": "module-blocklist\">&&</div>",
+      
+    "线路数组": "module-tab-item tab-item&&</div>",
+    
+    "线路标题":"<span>&&</small>[替换:</span><small>>>共]+集",
+    
+    "嗅探词": ".m3u8#.mp4#.flv#aliyundrive#alicloudccp",
+    
+    "数组": "module-item-pic\">&&module-item\">",
+    
+    "搜索url": "/vodsearch{wd}/page/{pg}.html", 
+     
+    "分类url": "https://www.nxmusic.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html;;mak",
+     
+    "分类": "电影$dianying#剧集$fenlei2#综艺$zongyi#动漫$dongman"
+    
+}
